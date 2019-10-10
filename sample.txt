@@ -1,0 +1,5 @@
+Hi, this is a special file to check the python code. The special symbols are ~ ! @ # $ % ^ & * ( ) _ - = + , . / < > ? ; ’ : ” [ ] \ { } |.
+This starts and ends a new line.
+The numbers are 0 1 2 3 4 5 6 7 8 9
+this line is all in small letters.
+THIS LINE IS ALL IN CAPITAL LETTERS.
